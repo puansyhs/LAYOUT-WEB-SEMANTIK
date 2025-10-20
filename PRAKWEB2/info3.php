@@ -25,7 +25,7 @@
 
   <article>
     <div id="single">
-      <h2>Mockup Web dengan Word</h2>
+      <h2>Desain Web Statis</h2>
       <img src="images/gambar3.png" width="300px" style="float:left; margin:10px;">
       <p>
         Mockup merupakan rancangan awal dari tampilan suatu website sebelum diubah menjadi kode HTML dan CSS. 
